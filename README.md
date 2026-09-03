@@ -37,3 +37,8 @@ Learning to build real-world software.
 - [ ] Learn Python
 
 Use `git status` to check your repo state.
+
+git init
+git add .
+git commit -m "message"
+ ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
